@@ -8,7 +8,7 @@ class A{
 }
 
 class B extends A{
-    int var = 10 = 20;
+    int var = 20;
     int getVar(){
         return var;
     }
